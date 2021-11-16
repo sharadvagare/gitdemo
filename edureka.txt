@@ -1,2 +1,4 @@
 This is first line
 This is second line
+
+adding a new line in rebase branch
